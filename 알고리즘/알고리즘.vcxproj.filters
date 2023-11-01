@@ -54,5 +54,8 @@
     <ClCompile Include="8958_OX퀴즈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10871_X보다 작은 수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
