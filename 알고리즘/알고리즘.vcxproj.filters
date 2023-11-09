@@ -16,55 +16,79 @@
     <Filter Include="소스 파일\Class 1">
       <UniqueIdentifier>{c568ede3-e101-48a6-840c-874de2f284b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Class 2">
+      <UniqueIdentifier>{3f864a06-1633-474e-ac32-ccdaa453503f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class 2\B1">
+      <UniqueIdentifier>{fa78d3b1-8d59-4140-90a7-364ad229e602}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class 1\Seed">
+      <UniqueIdentifier>{e56ffef5-0fc9-4b68-b666-4b9b3da99b4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class 1\B1">
+      <UniqueIdentifier>{11fe2e18-0df1-4dfc-8865-7ccd7c8c99b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class 1\B2">
+      <UniqueIdentifier>{ecbf4da5-0f53-4f51-b0d8-43a35f1dfd1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class 1\B3">
+      <UniqueIdentifier>{1a5f7e80-4a26-46dc-9552-8c0bb0029eb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class 1\B4">
+      <UniqueIdentifier>{db5ee07c-fe5a-4a22-92a5-f17a61903f59}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1546_평균.cpp">
+      <Filter>소스 파일\Class 2\B1</Filter>
+    </ClCompile>
     <ClCompile Include="1152_단어의 개수.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B2</Filter>
     </ClCompile>
     <ClCompile Include="1157_단어공부.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B1</Filter>
     </ClCompile>
     <ClCompile Include="2439_별 찍기 2.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B4</Filter>
     </ClCompile>
     <ClCompile Include="2562_최댓값.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B3</Filter>
     </ClCompile>
     <ClCompile Include="2577_숫자의 개수.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B2</Filter>
     </ClCompile>
     <ClCompile Include="2675_문자열 반복.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B2</Filter>
     </ClCompile>
     <ClCompile Include="2920_음계.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B2</Filter>
     </ClCompile>
     <ClCompile Include="3052_나머지.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B2</Filter>
     </ClCompile>
     <ClCompile Include="8958_OX퀴즈.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B2</Filter>
     </ClCompile>
     <ClCompile Include="10250_ACM 호텔.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B3</Filter>
     </ClCompile>
     <ClCompile Include="10809_알파벳 찾기.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B2</Filter>
     </ClCompile>
     <ClCompile Include="10818_최소, 최대.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B3</Filter>
     </ClCompile>
     <ClCompile Include="10871_X보다 작은 수.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\Seed</Filter>
     </ClCompile>
     <ClCompile Include="11720_숫자의 합.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\B4</Filter>
     </ClCompile>
     <ClCompile Include="25083_새싹.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\Seed</Filter>
     </ClCompile>
     <ClCompile Include="27866_문자와 문자열.cpp">
-      <Filter>소스 파일\Class 1</Filter>
+      <Filter>소스 파일\Class 1\Seed</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
