@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\Class 1\B4">
       <UniqueIdentifier>{db5ee07c-fe5a-4a22-92a5-f17a61903f59}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Class 2\B2">
+      <UniqueIdentifier>{34e93a44-91c6-49d5-9f5c-4e2cfd3f2792}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1546_평균.cpp">
@@ -89,6 +92,9 @@
     </ClCompile>
     <ClCompile Include="27866_문자와 문자열.cpp">
       <Filter>소스 파일\Class 1\Seed</Filter>
+    </ClCompile>
+    <ClCompile Include="1978_소수 찾기.cpp">
+      <Filter>소스 파일\Class 2\B2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
