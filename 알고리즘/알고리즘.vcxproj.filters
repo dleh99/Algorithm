@@ -96,5 +96,8 @@
     <ClCompile Include="1978_소수 찾기.cpp">
       <Filter>소스 파일\Class 2\B2</Filter>
     </ClCompile>
+    <ClCompile Include="2231_분해합.cpp">
+      <Filter>소스 파일\Class 2\B2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
