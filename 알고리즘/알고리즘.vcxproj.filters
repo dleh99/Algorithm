@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\Class 2\B2">
       <UniqueIdentifier>{34e93a44-91c6-49d5-9f5c-4e2cfd3f2792}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Class 2\B3">
+      <UniqueIdentifier>{f3617c92-0c4d-4743-b3f1-76ce4fedfdfb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1546_평균.cpp">
@@ -98,6 +101,9 @@
     </ClCompile>
     <ClCompile Include="2231_분해합.cpp">
       <Filter>소스 파일\Class 2\B2</Filter>
+    </ClCompile>
+    <ClCompile Include="4153_직각삼각형.cpp">
+      <Filter>소스 파일\Class 2\B3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
