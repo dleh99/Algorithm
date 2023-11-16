@@ -105,5 +105,8 @@
     <ClCompile Include="4153_직각삼각형.cpp">
       <Filter>소스 파일\Class 2\B3</Filter>
     </ClCompile>
+    <ClCompile Include="2292_벌집.cpp">
+      <Filter>소스 파일\Class 2\B2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
